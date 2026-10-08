@@ -848,8 +848,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6ff19892b6815c4b98f89937bdcc382, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SceneLoader
-  loadingScreen: {fileID: 1266165220}
-  minSeconds: 0.1
 --- !u!4 &774141655
 Transform:
   m_ObjectHideFlags: 0
@@ -2025,11 +2023,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b3d8f1a06c2e4f9b8a7c5d2e1f0a9b8c, type: 3}
---- !u!1 &1266165220 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 100000, guid: b3d8f1a06c2e4f9b8a7c5d2e1f0a9b8c, type: 3}
-  m_PrefabInstance: {fileID: 1266165219}
-  m_PrefabAsset: {fileID: 0}
 --- !u!224 &1266165221 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 100001, guid: b3d8f1a06c2e4f9b8a7c5d2e1f0a9b8c, type: 3}

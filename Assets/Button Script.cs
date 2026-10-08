@@ -17,7 +17,9 @@ public class ButtonScript : MonoBehaviour
 
     public void LoadSceneAR()
     {
-        SceneManager.LoadScene("ARScene");
+        // "ARScene" is disabled in Build Settings (EditorBuildSettings.asset), so loading it
+        // silently fails at runtime. Load the same scene the Museum1 card itself loads.
+        SceneManager.LoadScene("ARScene3");
 
     }
 }

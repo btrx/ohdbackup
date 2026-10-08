@@ -107,3 +107,7 @@ InitTestScene*.unity*
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 
 _video_backup/
+
+# Release signing - never commit
+/release.keystore
+/RELEASE_KEYSTORE_INFO.txt

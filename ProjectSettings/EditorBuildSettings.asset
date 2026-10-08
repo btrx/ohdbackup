@@ -29,10 +29,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ARScene3.unity
     guid: d105788901582a34c9ca0e2873f7a822
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/PreviewScene.unity
     guid: ea83ca2d91d94c6418536cca9d7a7b44
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/AffandiGallery.unity
     guid: 645182349dbcf3047afb28b2ab801f8c
   m_configObjects:
